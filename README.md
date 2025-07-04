@@ -1,6 +1,6 @@
 # 🖐️ Virtual Palm Reader
 
-https://github.com/Yuvraj-Singh-HIT/Astrology/pic.PNG
+![App Screenshot](pic.PNG)
 
 An AI-powered virtual palm reading application built with React and Vite. This interactive web app combines modern web technologies with mystical palm reading to provide personalized predictions based on your name, zodiac sign, and palm detection.
 
